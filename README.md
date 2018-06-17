@@ -1,2 +1,6 @@
+## **IGToolkit Usage:**
+
+![Screenshot](IGTUsage.png)
+
 # IGToolkit
-IGToolkit (Information Gathering Toolkit)
+## _IGToolkit (Information Gathering Toolkit)_
