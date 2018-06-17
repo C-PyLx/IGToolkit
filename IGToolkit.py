@@ -73,7 +73,7 @@ def IGToolkit():
                 local_ip()
             elif choice == '0':
                 net_status()
-            elif choice in ('\r', '\n', '\t', ' ', '\t'):
+            elif choice in ('\r', '\n', '\t', ' '):
                 IGToolkit()
             elif choice == 'exit':
                 exit_app()
