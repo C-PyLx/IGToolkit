@@ -8,7 +8,7 @@
 #Follow me on github:
 #https://github.com/C-PyLx
 #Report bugs to:
-#https://t.me/Ac3ess
+#https://t.me/cpylx
 
 import os
 import sys
